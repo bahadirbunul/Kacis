@@ -1,4 +1,6 @@
-﻿using System;
+﻿/// B181200033 BAHADIR BÜNÜL
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +18,7 @@ namespace Kacis.Desktop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Anaform());
         }
     }
 }
